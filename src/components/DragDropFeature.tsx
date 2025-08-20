@@ -92,7 +92,7 @@ export function DragDropFeature() {
                 <span className="text-[#A259FF] text-xs font-semibold">AI SUGGEST</span>
               </div>
               <div className="text-[#AAAAAA] text-xs leading-relaxed">
-                "Try 'Save 50%' instead of 'Discount' for better engagement"
+                &quot;Try &apos;Save 50%&apos; instead of &apos;Discount&apos; for better engagement&quot;
               </div>
             </div>
             

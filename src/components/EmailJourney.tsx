@@ -36,7 +36,7 @@ export function EmailJourney() {
       id: 'collaborate',
       title: 'Collaborate',
       subtitle: 'Review & Approve',
-      description: 'Enable customizable collaboration workflows. From simple feedback to complex approval chains with QA – scale to your team\'s needs.',
+      description: 'Enable customizable collaboration workflows. From simple feedback to complex approval chains with QA – scale to your team&apos;s needs.',
       icon: '👥',
       color: 'from-[#FF8A50] to-[#A259FF]',
       features: ['Flexible approval workflows', 'Comment & feedback system', 'QA validation steps']
@@ -197,14 +197,14 @@ export function EmailJourney() {
                         <span className="text-lg">🤖</span>
                         <span className="text-[#A259FF] text-sm font-semibold">AI Suggestion</span>
                       </div>
-                      <span className="text-[#F5F5F5] text-sm">"Try 'Unlock 50% savings' instead of 'Save money' for better engagement"</span>
+                      <span className="text-[#F5F5F5] text-sm">&quot;Try &apos;Unlock 50% savings&apos; instead of &apos;Save money&apos; for better engagement&quot;</span>
                     </div>
                     <div className="bg-[#1E1E1E] rounded-lg p-3 border-l-4 border-[#FF6F61]">
                       <div className="flex items-center space-x-2 mb-2">
                         <span className="text-lg">📊</span>
                         <span className="text-[#FF6F61] text-sm font-semibold">Layout Tip</span>
                       </div>
-                      <span className="text-[#F5F5F5] text-sm">"Move CTA button above the fold for 23% higher click rates"</span>
+                      <span className="text-[#F5F5F5] text-sm">&quot;Move CTA button above the fold for 23% higher click rates&quot;</span>
                     </div>
                   </div>
                 </div>

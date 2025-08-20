@@ -254,7 +254,7 @@ export function AIInsightsFeature() {
           </h2>
           
           <p className="text-[#666666] text-xl leading-relaxed max-w-3xl mx-auto mb-12">
-            Our AI doesn't just help you build emails—it learns from your campaigns, analyzes your audience, 
+            Our AI doesn&apos;t just help you build emails—it learns from your campaigns, analyzes your audience, 
             and provides actionable insights that turn your email marketing into a strategic advantage.
           </p>
         </div>

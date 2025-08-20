@@ -232,7 +232,7 @@ export default function SecurityPage() {
                   <li>Email us immediately at security@canvix.com with details</li>
                   <li>Provide steps to reproduce the issue if possible</li>
                   <li>Allow us reasonable time to investigate and address the issue</li>
-                  <li>We'll acknowledge receipt and keep you updated on our progress</li>
+                  <li>We&apos;ll acknowledge receipt and keep you updated on our progress</li>
                 </ul>
               </div>
             </div>

@@ -272,7 +272,7 @@ export default function PrivacyPage() {
               <div className="bg-white rounded-lg p-8 border border-[#E5E5E5]">
                 <h3 className="text-xl font-semibold mb-4 text-[#0F0F0F]">Questions About This Policy?</h3>
                 <p className="text-[#666666] mb-6">
-                  If you have questions about this privacy policy or how we handle your data, we're here to help.
+                  If you have questions about this privacy policy or how we handle your data, we&apos;re here to help.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4">
                   <a 
@@ -296,8 +296,8 @@ export default function PrivacyPage() {
                   We may update this privacy policy from time to time to reflect changes in our practices or for legal reasons.
                 </p>
                 <ul className="list-disc list-inside space-y-2 text-[#F5F5F5]/80 text-sm">
-                  <li>We'll notify you of significant changes via email or platform notification</li>
-                  <li>Minor updates will be posted with a new "last updated" date</li>
+                  <li>We&apos;ll notify you of significant changes via email or platform notification</li>
+                  <li>Minor updates will be posted with a new &quot;last updated&quot; date</li>
                   <li>Continued use of Canvix after updates constitutes acceptance</li>
                   <li>Previous versions are available upon request</li>
                 </ul>

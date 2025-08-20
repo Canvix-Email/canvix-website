@@ -108,7 +108,7 @@ export default function PricingPage() {
 
         {/* Pricing Cards */}
         <div className="grid lg:grid-cols-4 md:grid-cols-2 gap-8 mb-16">
-          {plans.map((plan, index) => (
+          {plans.map((plan) => (
             <div
               key={plan.name}
               className={`rounded-lg p-8 relative flex flex-col h-full ${
@@ -176,7 +176,7 @@ export default function PricingPage() {
               <div>
                 <h3 className="text-lg font-semibold mb-2 text-[#93C5FD]">Can I change plans anytime?</h3>
                 <p className="text-[#F5F5F5]/80 text-sm">
-                  Yes! You can upgrade or downgrade your plan at any time. Changes take effect immediately, and we'll prorate any billing differences.
+                  Yes! You can upgrade or downgrade your plan at any time. Changes take effect immediately, and we&apos;ll prorate any billing differences.
                 </p>
               </div>
               
@@ -206,7 +206,7 @@ export default function PricingPage() {
               <div>
                 <h3 className="text-lg font-semibold mb-2 text-[#93C5FD]">Do you offer refunds?</h3>
                 <p className="text-[#F5F5F5]/80 text-sm">
-                  We offer a 30-day money-back guarantee on all paid plans. If you're not satisfied, contact us for a full refund within 30 days of purchase.
+                  We offer a 30-day money-back guarantee on all paid plans. If you&apos;re not satisfied, contact us for a full refund within 30 days of purchase.
                 </p>
               </div>
 

@@ -15,7 +15,7 @@ export default function AccessibilityPage() {
             </span>
           </h1>
           <p className="text-xl text-[#F5F5F5]/80 max-w-3xl mx-auto">
-            At Canvix, we're committed to making our platform accessible to everyone. Learn about our accessibility features and ongoing efforts.
+            At Canvix, we&apos;re committed to making our platform accessible to everyone. Learn about our accessibility features and ongoing efforts.
           </p>
         </div>
 
@@ -30,7 +30,7 @@ export default function AccessibilityPage() {
                 Canvix is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone and applying the relevant accessibility standards.
               </p>
               <p className="text-lg leading-relaxed">
-                We believe that accessibility is not just about compliance—it's about creating an inclusive environment where everyone can unlock their email potential with our platform.
+                We believe that accessibility is not just about compliance—it&apos;s about creating an inclusive environment where everyone can unlock their email potential with our platform.
               </p>
             </div>
           </section>

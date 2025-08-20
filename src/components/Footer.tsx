@@ -1,7 +1,7 @@
 'use client'
 import Link from 'next/link'
 import Image from 'next/image'
-import { X, Linkedin, Facebook, Instagram } from 'lucide-react'
+import { Linkedin, Facebook, Instagram } from 'lucide-react'
 
 export function Footer() {
   const currentYear = new Date().getFullYear()

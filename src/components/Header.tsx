@@ -4,12 +4,17 @@ import Image from 'next/image'
 import { Globe } from 'lucide-react'
 import { useState, useEffect, useRef } from 'react'
 
+interface Language {
+  code: string
+  name: string
+}
+
 export function Header() {
   const [isLanguageOpen, setIsLanguageOpen] = useState(false)
   const [selectedLanguage, setSelectedLanguage] = useState('English (US)')
   const dropdownRef = useRef<HTMLDivElement>(null)
 
-  const languages = [
+  const languages: Language[] = [
     { code: 'en-US', name: 'English (US)' },
     { code: 'en-GB', name: 'English (UK)' },
     { code: 'en-AU', name: 'English (AU & NZ)' },
@@ -28,7 +33,7 @@ export function Header() {
     { code: 'ar-SA', name: 'العربية' }
   ]
 
-  const handleLanguageSelect = (language: any) => {
+  const handleLanguageSelect = (language: Language) => {
     setSelectedLanguage(language.name)
     setIsLanguageOpen(false)
   }
@@ -426,7 +431,7 @@ export function Header() {
                           Get in Touch
                         </h4>
                         <p className="text-[#AAAAAA] text-xs mb-2">
-                          Have questions? We'd love to hear from you.
+                          Have questions? We&apos;d love to hear from you.
                         </p>
                         <Link 
                           href="/company/contact"

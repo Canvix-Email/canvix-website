@@ -1,6 +1,5 @@
 import { Header } from '@/components/Header'
 import { Footer } from '@/components/Footer'
-import Image from 'next/image'
 import Link from 'next/link'
 
 export default function AboutPage() {
@@ -18,19 +17,19 @@ export default function AboutPage() {
             </span>
           </h1>
           <p className="text-xl text-[#AAAAAA] max-w-2xl mx-auto">
-            Built by someone who lives email marketing every day and knows exactly what's broken with current tools.
+            Built by someone who lives email marketing every day and knows exactly what&apos;s broken with current tools.
           </p>
         </div>
 
         {/* The Problem Section */}
         <div className="mb-16">
           <div className="bg-[#1E1E1E] border border-[#333] rounded-lg p-8">
-            <h2 className="text-3xl font-bold text-[#F5F5F5] mb-6">The Problem We're Solving</h2>
+            <h2 className="text-3xl font-bold text-[#F5F5F5] mb-6">The Problem We&apos;re Solving</h2>
             <p className="text-[#AAAAAA] text-lg leading-relaxed mb-4">
-              After a decade in email marketing, I've seen the same frustrations over and over. Even at major enterprise companies with sophisticated marketing automation platforms like Eloqua and Marketo, creating beautiful, on-brand emails is still unnecessarily complex.
+              After a decade in email marketing, I&apos;ve seen the same frustrations over and over. Even at major enterprise companies with sophisticated marketing automation platforms like Eloqua and Marketo, creating beautiful, on-brand emails is still unnecessarily complex.
             </p>
             <p className="text-[#AAAAAA] text-lg leading-relaxed mb-4">
-              Teams either struggle with limited drag-and-drop editors that don't give them real control, or they need developers to hand-code every template from scratch. Recently, I applied for a role where the job requirement was literally "must know how to code email templates from scratch" – and that convinced me more than ever that we need a better solution.
+              Teams either struggle with limited drag-and-drop editors that don&apos;t give them real control, or they need developers to hand-code every template from scratch. Recently, I applied for a role where the job requirement was literally &quot;must know how to code email templates from scratch&quot; – and that convinced me more than ever that we need a better solution.
             </p>
             <p className="text-[#AAAAAA] text-lg leading-relaxed">
               There had to be a middle ground: professional-grade design control without needing to be a developer.
@@ -57,10 +56,10 @@ export default function AboutPage() {
                 I started my career in sales, but quickly realized my passion was in marketing and technology. I taught myself HTML and CSS, which opened the door to campaign operations and eventually email marketing leadership.
               </p>
               <p>
-                Over the past decade, I've built complex email nurture programs, managed deliverability for enterprise companies, and led teams that send millions of emails. I've worked with platforms ranging from basic drag-and-drop editors to sophisticated enterprise automation tools.
+                Over the past decade, I&apos;ve built complex email nurture programs, managed deliverability for enterprise companies, and led teams that send millions of emails. I&apos;ve worked with platforms ranging from basic drag-and-drop editors to sophisticated enterprise automation tools.
               </p>
               <p>
-                At one company, we were fortunate enough to have developers build us a custom email editor. It was incredible – but I knew that level of control shouldn't require a development team.
+                At one company, we were fortunate enough to have developers build us a custom email editor. It was incredible – but I knew that level of control shouldn&apos;t require a development team.
               </p>
               <p>
                 As I advanced to Director of Email Marketing, I realized I could either keep complaining about the tools, or I could build the solution I wished existed.
@@ -98,7 +97,7 @@ export default function AboutPage() {
               <div>
                 <h3 className="text-xl font-semibold text-[#FF6F61] mb-3">Industry Insider Perspective</h3>
                 <p className="text-[#AAAAAA] leading-relaxed">
-                  I'm currently implementing competitors' tools in my day job. I know exactly what's missing and what needs to be better.
+                  I&apos;m currently implementing competitors&apos; tools in my day job. I know exactly what&apos;s missing and what needs to be better.
                 </p>
               </div>
             </div>

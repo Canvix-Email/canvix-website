@@ -38,7 +38,7 @@ function EmailJourneyIntegrated() {
       id: 'collaborate',
       title: 'Collaborate',
       subtitle: 'Review & Approve',
-      description: 'Enable customizable collaboration workflows. From simple feedback to complex approval chains with QA – scale to your team\'s needs.',
+      description: 'Enable customizable collaboration workflows. From simple feedback to complex approval chains with QA – scale to your team&apos;s needs.',
       icon: '👥',
       color: 'from-[#FF8A50] to-[#A259FF]',
       features: ['Flexible approval workflows', 'Comment & feedback system', 'QA validation steps']
@@ -199,14 +199,14 @@ function EmailJourneyIntegrated() {
                       <span className="text-lg">🤖</span>
                       <span className="text-[#A259FF] text-sm font-semibold">AI Suggestion</span>
                     </div>
-                    <span className="text-[#0F0F0F] text-sm">"Try 'Unlock 50% savings' instead of 'Save money' for better engagement"</span>
+                    <span className="text-[#0F0F0F] text-sm">&quot;Try &apos;Unlock 50% savings&apos; instead of &apos;Save money&apos; for better engagement&quot;</span>
                   </div>
                   <div className="bg-white rounded-lg p-3 border-l-4 border-[#FF6F61]">
                     <div className="flex items-center space-x-2 mb-2">
                       <span className="text-lg">📊</span>
                       <span className="text-[#FF6F61] text-sm font-semibold">Layout Tip</span>
                     </div>
-                    <span className="text-[#0F0F0F] text-sm">"Move CTA button above the fold for 23% higher click rates"</span>
+                    <span className="text-[#0F0F0F] text-sm">&quot;Move CTA button above the fold for 23% higher click rates&quot;</span>
                   </div>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export function CollaborationFeature() {
                 </div>
                 <div>
                   <h3 className="text-[#0F0F0F] text-lg font-semibold mb-2">Custom Approval Workflows</h3>
-                  <p className="text-[#666666] leading-relaxed">Design flexible approval chains that match your team's needs. From simple reviews to complex compliance processes with legal and brand sign-offs.</p>
+                  <p className="text-[#666666] leading-relaxed">Design flexible approval chains that match your team&apos;s needs. From simple reviews to complex compliance processes with legal and brand sign-offs.</p>
                 </div>
               </div>
               
@@ -436,21 +436,21 @@ export function CollaborationFeature() {
                     <div className="w-4 h-4 bg-[#A259FF] rounded-full"></div>
                     <span className="text-[#0F0F0F] text-xs font-semibold">Sarah (Legal)</span>
                   </div>
-                  <p className="text-[#666666] text-xs">"Update disclaimer text in footer to match new policy"</p>
+                  <p className="text-[#666666] text-xs">&quot;Update disclaimer text in footer to match new policy&quot;</p>
                 </div>
                 <div className="bg-[#F8F9FA] rounded-lg p-3">
                   <div className="flex items-center space-x-2 mb-1">
                     <div className="w-4 h-4 bg-[#FF6F61] rounded-full"></div>
                     <span className="text-[#0F0F0F] text-xs font-semibold">Mike (Design)</span>
                   </div>
-                  <p className="text-[#666666] text-xs">"CTA button looks great! ✅"</p>
+                  <p className="text-[#666666] text-xs">&quot;CTA button looks great! ✅&quot;</p>
                 </div>
                 <div className="bg-[#A259FF]/10 rounded-lg p-3 border border-[#A259FF]/20">
                   <div className="flex items-center space-x-2 mb-1">
                     <div className="w-4 h-4 bg-[#22C55E] rounded-full"></div>
                     <span className="text-[#0F0F0F] text-xs font-semibold">You</span>
                   </div>
-                  <p className="text-[#0F0F0F] text-xs font-medium">"Updated! Ready for final review 🚀"</p>
+                  <p className="text-[#0F0F0F] text-xs font-medium">&quot;Updated! Ready for final review 🚀&quot;</p>
                 </div>
               </div>
             </div>

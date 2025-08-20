@@ -30,7 +30,7 @@ export default function TermsPage() {
             <h2 className="text-3xl font-bold mb-6 text-[#F5F5F5]">Acceptance of Terms</h2>
             <div className="bg-[#1E1E1E] rounded-lg p-8">
               <p className="text-lg leading-relaxed mb-4">
-                By accessing or using the Canvix platform ("Service"), you agree to be bound by these Terms & Conditions ("Terms"). If you do not agree to these Terms, you may not use our Service.
+                By accessing or using the Canvix platform (&quot;Service&quot;), you agree to be bound by these Terms &amp; Conditions (&quot;Terms&quot;). If you do not agree to these Terms, you may not use our Service.
               </p>
               <p className="text-lg leading-relaxed">
                 These Terms apply to all users of the Service, including but not limited to individual users, businesses, and organizations that access or use our email creation platform.
@@ -123,7 +123,7 @@ export default function TermsPage() {
                   <h4 className="text-lg font-semibold mb-4 text-[#FF6F61]">Platform Misuse</h4>
                   <ul className="list-disc list-inside space-y-2 text-[#F5F5F5]/80 text-sm">
                     <li>Attempt to breach security or access controls</li>
-                    <li>Interfere with the Service's operation</li>
+                    <li>Interfere with the Service&apos;s operation</li>
                     <li>Reverse engineer or copy our software</li>
                     <li>Use automated tools to access the Service</li>
                     <li>Resell or redistribute the Service</li>
@@ -189,7 +189,7 @@ export default function TermsPage() {
                 <ul className="list-disc list-inside space-y-2 text-[#F5F5F5]/80">
                   <li>You grant us a license to host, process, and deliver your content</li>
                   <li>You represent that you have the right to use all content you upload</li>
-                  <li>You're responsible for ensuring your content doesn't infringe others' rights</li>
+                  <li>You&apos;re responsible for ensuring your content doesn&apos;t infringe others&apos; rights</li>
                   <li>We may remove content that violates these Terms</li>
                 </ul>
               </div>
@@ -348,7 +348,7 @@ export default function TermsPage() {
                 </p>
                 <ul className="list-disc list-inside space-y-2 text-[#F5F5F5]/80 text-sm">
                   <li>Material changes will be communicated via email or platform notification</li>
-                  <li>Minor updates will be posted with a new "last updated" date</li>
+                  <li>Minor updates will be posted with a new &quot;last updated&quot; date</li>
                   <li>Continued use after updates constitutes acceptance of new Terms</li>
                   <li>You may terminate your account if you disagree with changes</li>
                   <li>Previous versions are available upon request</li>
