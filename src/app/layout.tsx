@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Canvix - Build Beautiful Emails, Fast",
-  description: "Easy drag-and-drop email builder for marketers who want control, not code.",
+  title: "Canvix - Unlock your email potential.",
+  description: "Build beautiful, professional emails with no coding required. The complete platform that transforms how teams create, collaborate, and optimize email campaigns.",
   icons: {
     icon: "/canvix-logo.png",
     shortcut: "/canvix-logo.png",
